@@ -3,6 +3,10 @@
 A different dataset from the one suggested as been used, due to better suitability for classification of types of line faults as descrbed by the problem statement.
 - https://www.kaggle.com/datasets/esathyaprakash/electrical-fault-detection-and-classification
 
+Data preprocessing is done through the `data-labeling.ipynb` file, with the `.py` version being the script equivalent
+
+Model training notebook is saved at `Decision Tree Classifier_ Notebook.ipynb`
+
 Public endpoint of hosted model:
 - https://au-syd.ml.cloud.ibm.com/ml/v4/deployments/dpl1/predictions?version=2021-05-01
 
